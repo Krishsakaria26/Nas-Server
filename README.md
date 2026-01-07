@@ -31,7 +31,7 @@ Transform any directory into a web-based file management hub accessible from any
 Place the script in the folder you wish to share and run:
 
 ```
-python simple_nas.py
+python nas.py
 ```
 
 ### 3. Accessing the NAS
